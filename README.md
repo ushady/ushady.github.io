@@ -1,15 +1,15 @@
-## 💼 Resume - Vikas Kaushik 👨🏻‍💻
+Subject: MBA Candidate seeking opportunities
 
-Subject: Experienced Software Developer seeking job opportunities
+Dear Hiring Team,
 
-Hi,
+I am writing to express my keen interest in the job opportunity with you that align with my academic background and developing skills. I am currently an MBA Candidate at Dr. D.Y. Patil Vidyapeeth, Pune, actively expanding my knowledge in key business disciplines.
 
-I’ve 10+ years of professional IT experience. I have successfully delivered enterprise-grade microservices, data-pipelines and APIs in a distributed multi-cloud environment with high scalability, reliability and availability requirements. I’ve set up projects from scratch, including project structure, unit tests, monitoring, CI/CD. I’m skilled in using Golang, Kubernetes, Docker, Kafka, Prometheus, Grafana, SRE, system design and data-structures.
+My academic journey has provided me with a strong foundation, including a Master of Arts and a Bachelor of Arts from Maharishi Dayanand University, Rohtak. These programs, along with my foundational education from BSEH, have honed my analytical abilities and communication skills. I have also proactively pursued certifications in Computer Awareness and an English speaking course, demonstrating my commitment to continuous learning and enhancing my professional toolkit.
 
-In my present role at Walmart, I’m a Sr. Software Engineer, in the SRE team where I architect and implement solutions that help product teams to monitor and set up alerts for their services, improving MTTD and MTTR in prod. During my tenure at ThoughtWorks, I led projects starting from inception, release planning and delivery with agile practices. I’ve been a backend software developer for the most part of my career. I value inclusivity, diversity, creativity and collaboration and I love to be among empathetic intellectuals.
+Through my studies, I have cultivated strengths such as analytical thinking, adaptability, and a collaborative approach. I am a process-oriented individual with strong communication skills, eager to apply theoretical knowledge to real-world business challenges. I am a quick learner and am confident in my ability to contribute positively to a dynamic team environment.
 
-I’m looking forward to knowing more about this opportunity.
+I am enthusiastic about the possibility of leveraging my academic achievements and skills in a practical setting and am eager to learn more about how my profile aligns with your requirements.Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your organization.
 
 
-Thanks,
-Vikas Kaushik
+Sincerely,
+Usha K.
